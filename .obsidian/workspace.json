@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b2a7b48dede49e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54e3a3180edd964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7790dc04282c8fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思维/《金字塔原理》目录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8894b3c1e4178ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思维/《金字塔原理》目录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e196c22f80b8efb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7e13d919753a0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63133907ed8be53c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afcb41e532297b07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c1e22dc9605af0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f87a49c2829b015",
+    "type": "split",
+    "children": [
+      {
+        "id": "c974e8daf979a6d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82d1d29f4bf5090",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "思维/《金字塔原理》目录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c02e4ec174f70ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "思维/《金字塔原理》目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01e652b276565abd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fa3ef8836515af6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "思维/《金字塔原理》目录.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8894b3c1e4178ec5",
+  "lastOpenFiles": [
+    "金字塔原理--笔记.md",
+    "思维/《金字塔原理》目录.md",
+    "思维"
+  ]
+}
